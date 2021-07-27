@@ -84,16 +84,16 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 h1, .h1 {
-  font-size: calc(1.725rem + 5.7vw);
+  font-size: calc(1.5rem + 5.7vw);
 }
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 }
 
 h2, .h2 {
-  font-size: calc(1.475rem + 2.7vw);
+  font-size: calc(1.4rem + 2.7vw);
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -10891,7 +10891,7 @@ p.lead {
 .subheading {
   font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 300;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 #sideNav {
@@ -10928,7 +10928,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 14rem;
     max-height: 14rem;
-    border: 0.3rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
